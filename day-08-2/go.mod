@@ -1,4 +1,4 @@
-module aoc081
+module aoc082
 
 go 1.23.3
 
